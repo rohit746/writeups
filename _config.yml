@@ -59,12 +59,11 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-4HKJYTGW7T
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
-    id: d48dbb44-27c4-49ff-9bca-4c8c73b9057e
-    domain: "http://umami-f0s80oskw4ok44g0ks0s8sw0.5.189.158.61.sslip.io"
+    id:
   matomo:
     id: # fill in your Matomo ID
     domain: # fill in your Matomo domain
